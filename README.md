@@ -42,6 +42,7 @@
 此代码中有很多bug，请勿放置于生产环境。
 
 Author: AdminTony
+
 Blog: http://www.admintony.com
 
 编写思路请移步[BootStrap+PHP编写信息系统](http://admintony.com/BootStrap-PHP%E7%BC%96%E5%86%99%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F.html)
